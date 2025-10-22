@@ -1,4 +1,4 @@
-# 🧠 Linux Virtual Machine & Bash Scripting
+# 🐧 Linux Virtual Machine & Bash Scripting
 
 **Summary:**  
 Hands-on Linux project demonstrating system setup, automation, and Bash scripting in a virtualized Ubuntu environment. Showcases real-world skills in command-line operations, user administration, and custom automation—core competencies for cloud and DevOps roles.
