@@ -1,7 +1,19 @@
+![Linux Project](https://img.shields.io/badge/Linux-Bash-blue?logo=linux)
+
 # 🐧 Linux Virtual Machine & Bash Scripting
 
 **🚀 Summary:**  
 Hands-on Linux project demonstrating system setup, automation, and Bash scripting in a virtualized Ubuntu environment. Showcases real-world skills in command-line operations, user administration, and custom automation—core competencies for cloud and DevOps roles.
+
+---
+
+### **Badges**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%20LTS-orange?logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-Bash-1f425f?logo=gnu-bash&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-blue?logo=virtualbox)
+![Automation](https://img.shields.io/badge/Automation-Scripting-success)
+![Cloud_Ready](https://img.shields.io/badge/Cloud_Ready-Yes-green)
 
 ---
 
