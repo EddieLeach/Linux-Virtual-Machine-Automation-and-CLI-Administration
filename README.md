@@ -1,6 +1,6 @@
 # 🐧 Linux Virtual Machine & Bash Scripting
 
-**Summary:**  
+**🚀 Summary:**  
 Hands-on Linux project demonstrating system setup, automation, and Bash scripting in a virtualized Ubuntu environment. Showcases real-world skills in command-line operations, user administration, and custom automation—core competencies for cloud and DevOps roles.
 
 ---
@@ -16,7 +16,8 @@ Hands-on Linux project demonstrating system setup, automation, and Bash scriptin
 
 ### **⚙️How**
 
-**Tech Stack:** Ubuntu 22.04 LTS • Bash • VirtualBox • GNU Core Utils (`awk`, `sed`, `grep`, `df`)  
+**Tech Stack:** 
+Ubuntu 22.04 LTS • Bash • VirtualBox • GNU Core Utils (`awk`, `sed`, `grep`, `df`)  
 
 - Built and configured the VM entirely through the command line.  
 - Created **Bash scripts** for:  
