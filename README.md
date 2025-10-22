@@ -5,7 +5,7 @@ Hands-on Linux project demonstrating system setup, automation, and Bash scriptin
 
 ---
 
-### **What**
+### **🧩What**
 - Configured an **Ubuntu VM** and verified full system setup.  
 - Demonstrated advanced **Bash command-line** and scripting techniques.  
 - Applied **internal/external commands**, quoting, and **control statements** (`;`, `&&`, `||`, `if`, `for`, `while`).  
@@ -14,7 +14,7 @@ Hands-on Linux project demonstrating system setup, automation, and Bash scriptin
 
 ---
 
-### **How**
+### **⚙️How**
 
 **Tech Stack:** Ubuntu 22.04 LTS • Bash • VirtualBox • GNU Core Utils (`awk`, `sed`, `grep`, `df`)  
 
@@ -26,7 +26,7 @@ Hands-on Linux project demonstrating system setup, automation, and Bash scriptin
 
 ---
 
-### **Why**
+### **🎯 Why**
 - To **demonstrate proficiency** in Linux administration and shell scripting.  
 - To **apply automation** for real system operations and monitoring.  
 - To **strengthen core skills** essential for cloud engineering and DevOps environments.  
